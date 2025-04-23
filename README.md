@@ -1,4 +1,3 @@
-# Winnie-Closet
 # 👗 Winnie Closet
 
 **Winnie Closet** is your one-stop online shop for trendy clothes, stylish shoes, and elegant jewelry. Whether you're refreshing your wardrobe or looking for that perfect statement piece, we've got you covered.
